@@ -4,7 +4,7 @@
 
 ## 2. Add your project
 
-Modify `src/data/projects.json`, and add your project. Make sure it adhere to the following interface:
+Modify `src/projects.json`, and add your project. Make sure it adhere to the following interface:
 
 ```typescript
 interface Project {
@@ -24,7 +24,7 @@ interface Project {
 
 ## 3. Add your logo
 
-Add your logo as `.jpg` or `.png` to the `public/assets/projects/` folder. Preferably 256x256px.
+Add your logo as `.jpg` or `.png` to the `src/assets/logos/` folder. Preferably 256x256px.
 
 ## 4. Open a PR
 
