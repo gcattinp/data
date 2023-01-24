@@ -345,5 +345,114 @@
     "socials": {
       "twitter": "https://twitter.com/Y2R_Finance"
     }
+  },
+  "metamask": {
+    "id": "metamask",
+    "name": "Metamask",
+    "description": "Non-custodial wallet",
+    "categories": ["Infrastructure", "Wallets"],
+    "logo": "metamask",
+    "website": "https://metamask.io/",
+    "socials": {
+      "twitter": "https://twitter.com/MetaMask"
+    }
+  },
+  "keplr": {
+    "id": "keplr",
+    "name": "Keplr",
+    "description": "Non-custodial wallet",
+    "categories": ["Infrastructure", "Wallets"],
+    "logo": "keplr.png",
+    "website": "https://www.keplr.app/",
+    "socials": {
+      "twitter": "https://twitter.com/keplrwallet"
+    }
+  },
+  "synapse": {
+    "id": "synapse",
+    "name": "Synapse Bridge",
+    "description": "Bridge",
+    "categories": ["Bridges"],
+    "logo": "synapse.png",
+    "website": "https://synapseprotocol.com",
+    "socials": {
+      "twitter": "https://twitter.com/SynapseProtocol"
+    }
+  },
+  "bharvest": {
+    "id": "bharvest",
+    "name": "B-Harvest",
+    "description": "Contributor and Validator",
+    "categories": ["Contributors"],
+    "logo": "bharvest.jpg",
+    "website": "https://bharvest.io/",
+    "socials": {
+      "twitter": "https://twitter.com/b__harvest"
+    }
+  },
+  "neobase": {
+    "id": "neobase",
+    "name": "Neobase",
+    "tags": [],
+    "description": "Contributor",
+    "categories": ["Contributors"],
+    "logo": "neobase.svg",
+    "website": "https://analytics.canto.neobase.one/home"
+  },
+  "plex": {
+    "id": "plex",
+    "name": "Plex",
+    "tags": [],
+    "description": "Contributor",
+    "categories": ["Contributors"],
+    "logo": "plex.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/Plex_Official"
+    }
+  },
+  "gravitybridge": {
+    "id": "gravitybridge",
+    "name": "Gravity Bridge",
+    "description": "Bridge",
+    "categories": ["Bridges"],
+    "logo": "gravitybridge.jpg",
+    "website": "https://www.gravitybridge.net/",
+    "socials": {
+      "twitter": "https://twitter.com/gravity_bridge"
+    }
+  },
+  "enkrypt": {
+    "id": "enkrypt",
+    "name": "Enkrypt",
+    "description": "Non-custodial wallet",
+    "categories": ["Wallets"],
+    "logo": "enkrypt.jpg",
+    "website": "https://www.enkrypt.com",
+    "socials": {
+      "twitter": "https://twitter.com/enkrypt"
+    }
+  },
+  "leapwallet": {
+    "id": "leapwallet",
+    "name": "Leap Wallet",
+    "description": "Non-custodial wallet",
+    "categories": ["Wallets"],
+    "logo": "leapwallet.jpg",
+    "website": "https://www.leapwallet.io/",
+    "socials": {
+      "twitter": "https://twitter.com/leap_wallet"
+    }
+  },
+  "slingshot": {
+    "id": "slingshot",
+    "name": "Slingshot",
+    "description": "Decentralized Exchange",
+    "categories": ["DEX", "DeFi"],
+    "logo": "slingshot.png",
+    "website": "https://app.slingshot.finance",
+    "socials": {
+      "twitter": "https://twitter.com/SlingshotCrypto"
+    }
   }
 }
