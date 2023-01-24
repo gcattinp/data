@@ -31,5 +31,27 @@
     "url": "https://thecoh.build",
     "startUTC": "2022-11-29 00:00:00",
     "endUTC": "2022-12-18 23:59:59"
+  },
+  "coh_c1s4": {
+    "id": "coh_c1s4",
+    "name": "Online Hackathon (Chapter 1: Season 4)",
+    "eventCategoryIds": [
+      "hackathons",
+      "onlineevents"
+    ],
+    "url": "https://thecoh.build",
+    "startUTC": "2023-01-02 00:00:00",
+    "endUTC": "2023-01-22 23:59:59"
+  },
+  "coh_c1s5": {
+    "id": "coh_c1s5",
+    "name": "(TBA) Online Hackathon (Chapter 1: Season 5)",
+    "eventCategoryIds": [
+      "hackathons",
+      "onlineevents"
+    ],
+    "url": "https://thecoh.build",
+    "startUTC": "2023-02-01 00:00:00",
+    "endUTC": "2023-02-28 23:59:59"
   }
 }
