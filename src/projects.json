@@ -126,28 +126,6 @@
       "twitter": "https://twitter.com/Canto_Moon"
     }
   },
-  "cantofinance": {
-    "id": "cantofinance",
-    "name": "Canto Finance",
-    "description": "DeFi Protocol",
-    "categories": ["DeFi"],
-    "logo": "cantofinance.jpg",
-    "website": null,
-    "socials": {
-      "twitter": "https://twitter.com/CantoFinance"
-    }
-  },
-  "cantogameoflife": {
-    "id": "cantogameoflife",
-    "name": "Canto Game of Life",
-    "description": "",
-    "categories": ["Games", "Hackathon Projects"],
-    "logo": "cantogameoflife.jpg",
-    "website": null,
-    "socials": {
-      "twitter": "https://twitter.com/CantoGameOfLife"
-    }
-  },
   "cantoinu": {
     "id": "cantoinu",
     "name": "Canto Inu",
@@ -181,17 +159,6 @@
     "socials": {
       "twitter": "https://twitter.com/cantoswapfi",
       "telegram": "https://t.me/CantoswapOfficial"
-    }
-  },
-  "cantotoons": {
-    "id": "cantotoons",
-    "name": "Canto Toons",
-    "description": "Canto Toons are fulfillling the Canto mission.",
-    "categories": ["NFT"],
-    "logo": "cantotoons.jpg",
-    "website": "https://kave-labs.gitbook.io/canto-toons-docs",
-    "socials": {
-      "twitter": "https://twitter.com/CantoToonsNFT"
     }
   },
   "canto_minipent": {
