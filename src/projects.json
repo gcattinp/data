@@ -351,7 +351,7 @@
     "name": "Metamask",
     "description": "Non-custodial wallet",
     "categories": ["Infrastructure", "Wallets"],
-    "logo": "metamask",
+    "logo": "metamask.png",
     "website": "https://metamask.io/",
     "socials": {
       "twitter": "https://twitter.com/MetaMask"
