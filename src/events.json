@@ -1,0 +1,35 @@
+{
+  "coh_c1s2": {
+    "id": "coh_c1s2",
+    "name": "Online Hackathon (Chapter 1: Season 2)",
+    "eventCategoryIds": [
+      "hackathons",
+      "onlineevents"
+    ],
+    "url": "https://thecoh.build",
+    "startUTC": "2022-11-02 00:00:00",
+    "endUTC": "2022-11-20 23:59:59"
+  },
+  "coh_c1s2_judging": {
+    "id": "coh_c1s2_judging",
+    "name": "Judging - Online Hackathon (Chapter 1: Season 2)",
+    "eventCategoryIds": [
+      "hackathons",
+      "onlineevents"
+    ],
+    "url": "https://www.youtube.com/watch?v=PgPjQRalQM0",
+    "startUTC": "2022-11-20 18:00:00",
+    "endUTC": "2022-11-20 20:00:00"
+  },
+  "coh_c1s3": {
+    "id": "coh_c1s3",
+    "name": "Online Hackathon (Chapter 1: Season 3)",
+    "eventCategoryIds": [
+      "hackathons",
+      "onlineevents"
+    ],
+    "url": "https://thecoh.build",
+    "startUTC": "2022-11-29 00:00:00",
+    "endUTC": "2022-12-18 23:59:59"
+  }
+}

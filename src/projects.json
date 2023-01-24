@@ -1,0 +1,382 @@
+{
+  "altomarket": {
+    "id":"altomarket",
+    "name": "Alto Market",
+    "description": "Free Public NFT Market Infrastructure",
+    "categories": ["NFT", "Infrastructure"],
+    "logo": "altomarket.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/AltoMarket"
+    },
+    "duneQueryEmbeds": []
+  },
+  "alyst": {
+    "id": "alyst",
+    "name": "Alyst",
+    "description": "Offchain Governance",
+    "categories": ["Governance", "Hackathon Projects"],
+    "logo": "alyst.jpg",
+    "website": "https://alyst.xyz",
+    "socials": {
+      "twitter": "https://twitter.com/alyst_xyz"
+    }
+  },
+  "betoad": {
+    "id": "betoad",
+    "name": "Betoad",
+    "tags": ["coh_c1s2"],
+    "description": "Casino-Fi platform on Canto",
+    "categories": ["Games", "Hackathon Projects"],
+    "logo": "betoad.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/cantobetoad"
+    }
+  },
+  "cantosafe": {
+    "id": "cantosafe",
+    "name": "Canto Safe",
+    "tags": [],
+    "description": "Multi-signature wallet",
+    "categories": ["Infrastructure"],
+    "logo": "canto-safe.svg",
+    "website": "https://safe.neobase.one",
+    "socials": {
+      "twitter": "https://twitter.com/neobase_studios"
+    }
+  },
+  "cantotoe": {
+    "id": "cantotoe",
+    "name": "CanToe",
+    "tags": [],
+    "description": "4444 CanToe NFTs",
+    "categories": ["NFT"],
+    "logo": "cantoe.jpg",
+    "website": "https://cantoe.com",
+    "socials": {
+      "twitter": "https://twitter.com/CanToeNFT"
+    }
+  },
+  "happyrabbits": {
+    "id": "happyrabbits",
+    "name": "Happy Rabbits",
+    "tags": [],
+    "description": "HappyRabbit is a crypto-currency based on the famous meme \"follow the white rabbit\".",
+    "categories": ["NFT"],
+    "logo": "happyrabbit.jpg",
+    "website": "https://rabbit-front.vercel.app",
+    "socials": {
+      "discord": "https://discord.gg/StsrEbkU",
+      "twitter": "https://twitter.com/HappyRabbitCoin"
+    }
+  },
+  "neobase_analytics": {
+    "id": "neobase_analytics",
+    "name": "Canto Analytics by Neobase",
+    "tags": [],
+    "description": "Analytics dashboard for Canto",
+    "categories": ["Information"],
+    "logo": "neobase.svg",
+    "website": "https://analytics.canto.neobase.one/home"
+  },
+  "ansybl": {
+    "id": "ansybl",
+    "name": "Ansybl",
+    "tags": ["coh_c1s2"],
+    "description": "Proof-of-stake infrastructure and service provider",
+    "categories": ["Infrastructure", "Hackathon Projects"],
+    "logo": "ansybl.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/ansybl_staking",
+      "github": "https://github.com/ansybl"
+    }
+  },
+  "cantillionaires": {
+    "id": "cantillionaires",
+    "name": "Cantillionaires",
+    "description": "NFT collection on Canto",
+    "tags": ["coh_c1s2"],
+    "categories": ["NFT", "Hackathon Projects"],
+    "logo": "cantillionaires.jpg",
+    "website": "https://www.cantillionaires.com/",
+    "socials": {
+      "twitter": "https://twitter.com/Cantillionaires"
+    }
+  },
+  "cantoshell": {
+    "id": "cantoshell",
+    "name": "Canto Shell",
+    "description": "",
+    "tags": ["coh_c1s2"],
+    "categories": ["Infrastructure", "Hackathon Projects"],
+    "logo": null,
+    "website": "https://canto.sh"
+  },
+  "canto_moon": {
+    "id": "canto_moon",
+    "name": "CantoMoon",
+    "description": "",
+    "tags": ["coh_c1s2"],
+    "categories": ["Meme coin", "Hackathon Projects"],
+    "logo": "cantomoon.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/Canto_Moon"
+    }
+  },
+  "cantofinance": {
+    "id": "cantofinance",
+    "name": "Canto Finance",
+    "description": "DeFi Protocol",
+    "categories": ["DeFi"],
+    "logo": "cantofinance.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/CantoFinance"
+    }
+  },
+  "cantogameoflife": {
+    "id": "cantogameoflife",
+    "name": "Canto Game of Life",
+    "description": "",
+    "categories": ["Games", "Hackathon Projects"],
+    "logo": "cantogameoflife.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/CantoGameOfLife"
+    }
+  },
+  "cantoinu": {
+    "id": "cantoinu",
+    "name": "Canto Inu",
+    "description": "",
+    "categories": ["Meme coin"],
+    "logo": "cantoinu.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/CantoInu"
+    }
+  },
+  "cantolongnecks": {
+    "id": "cantolongnecks",
+    "name": "Canto Longnecks",
+    "description": "Home of the $CANTO Longnecks Herd.",
+    "categories": ["NFT", "Hackathon Projects"],
+    "logo": "cantolongnecks.jpg",
+    "website": "https://cantolongnecks.com",
+    "socials": {
+      "twitter": "https://twitter.com/cantolongnecks",
+      "discord": "https://discord.com/invite/longnecks"
+    }
+  },
+  "cantoswapfi": {
+    "id": "cantoswapfi",
+    "name": "CantoSwap",
+    "description": "",
+    "categories": ["DEX", "DeFi", "Hackathon Projects"],
+    "logo": "cantoswap.jpg",
+    "website": "https://www.cantoswap.fi",
+    "socials": {
+      "twitter": "https://twitter.com/cantoswapfi",
+      "telegram": "https://t.me/CantoswapOfficial"
+    }
+  },
+  "cantotoons": {
+    "id": "cantotoons",
+    "name": "Canto Toons",
+    "description": "Canto Toons are fulfillling the Canto mission.",
+    "categories": ["NFT"],
+    "logo": "cantotoons.jpg",
+    "website": "https://kave-labs.gitbook.io/canto-toons-docs",
+    "socials": {
+      "twitter": "https://twitter.com/CantoToonsNFT"
+    }
+  },
+  "canto_minipent": {
+    "id": "canto_minipent",
+    "name": "Canto Minipent",
+    "description": "Knowledge base for Canto",
+    "tags": ["coh_c1s2"],
+    "categories": ["Information", "Hackathon Projects"],
+    "logo": "pentacle.jpg",
+    "website": "https://canto.minipent.xyz",
+    "socials": {
+      "twitter": "https://twitter.com/pentaclexyz"
+    }
+  },
+  "cpms": {
+    "id": "cpms",
+    "name": "CPMS:// Canto Public Messaging Service",
+    "description": "Public Messaging Service.",
+    "tags": ["coh_c1s2"],
+    "categories": ["Infrastructure", "Hackathon Projects"],
+    "logo": "cpms.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/CantoMessenger"
+    }
+  },
+  "cantocrabs": {
+    "id": "cantocrabs",
+    "name": "Canto Crabs",
+    "tags": ["coh_c1s2"],
+    "description": "A collective of 3333 most unique and kewl crabs.",
+    "categories": ["NFT", "Hackathon Projects"],
+    "logo": "cantocrabs.jpg",
+    "website": "https://cantocrabs.com/",
+    "socials": {
+      "twitter": "https://twitter.com/CantoCrabs"
+    }
+  },
+  "dnsforcanto": {
+    "id": "dnsforcanto",
+    "name": "Canto Name Service",
+    "description": "Name Service on Canto.",
+    "categories": ["Infrastructure", "NFT", "Hackathon Projects"],
+    "logo": "cns.jpg",
+    "website": "https://cantodomainname.substack.com",
+    "socials": {
+      "twitter": "https://twitter.com/DNSFORCANTO"
+    }
+  },
+  "encantowetrust": {
+    "id": "encantowetrust",
+    "name": "Encanto",
+    "description": "Rewards engine for ForteSwap liquidity providers",
+    "categories": ["DeFi", "Hackathon Projects"],
+    "logo": "encanto.jpg",
+    "website": "https://encantowetrust.com",
+    "socials": {
+      "twitter": "https://twitter.com/EncantoWeTrust",
+      "telegram": "https://t.me/+2rmvK-952dE1ZjFh"
+    }
+  },
+  "forteswap": {
+    "id": "forteswap",
+    "name": "Forteswap",
+    "description": "",
+    "categories": ["DEX", "DeFi"],
+    "logo": "forteswap.jpg",
+    "website": "https://forteswap.xyz",
+    "socials": {
+      "twitter": "https://twitter.com/forteswap"
+    }
+  },
+  "happyrabbitcoin": {
+    "id": "happyrabbitcoin",
+    "name": "Happy Rabbit",
+    "description": "",
+    "categories": ["Meme coin"],
+    "logo": "happyrabbit.jpg",
+    "website": "https://rabbit-front.vercel.app",
+    "socials": {
+      "twitter": "https://twitter.com/HappyRabbitCoin"
+    }
+  },
+  "itsbambooapp": {
+    "id": "itsbambooapp",
+    "name": "Bamboo",
+    "description": "Canto’s NFT gallery",
+    "tags": ["coh_c1s2"],
+    "categories": ["NFT", "Hackathon Projects"],
+    "logo": "bamboo.jpg",
+    "website": "https://bamboojaunt.art",
+    "socials": {
+      "twitter": "https://twitter.com/itsbambooapp"
+    }
+  },
+  "kantogame": {
+    "id": "kantogame",
+    "name": "KantoGame",
+    "description": "Explore Kanto, find and battle its creatures, capture and collect them.",
+    "categories": ["NFT", "Hackathon Projects"],
+    "logo": "kantogame.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/KantoGame",
+      "discord": "https://t.co/BSRrN1i6lI"
+    }
+  },
+  "magnetart": {
+    "id": "magnetart",
+    "name": "Magnet",
+    "description": "Magnet is the magic wand of NFTs. The boundaries will never be the same. Get ready to become a magnet 🧲",
+    "categories": ["NFT", "Hackathon Projects"],
+    "logo": "magnetart.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/magnet__art"
+    }
+  },
+  "nftiify": {
+    "id": "nftiify",
+    "name": "nftiify",
+    "description": "",
+    "categories": ["NFT"],
+    "logo": "nftiify.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/nftiify"
+    }
+  },
+  "promptnft": {
+    "id": "promptnft",
+    "name": "Pompt",
+    "description": "Crowdsource prompts – build art and an audience with AI-generated NFTs",
+    "categories": ["NFT", "Hackathon Projects"],
+    "logo": "prompt.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/PromptNFT"
+    }
+  },
+  "spirit_swap": {
+    "id": "spirit_swap",
+    "name": "Spirit Swap",
+    "description": "",
+    "categories": ["DEX", "DeFi"],
+    "logo": "spiritswap.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/Spirit_Swap"
+    }
+  },
+  "leetswap": {
+    "id": "leetswap",
+    "name": "LeetSwap",
+    "description": "DEX ecosystem for elite degens built on the leetest blockchain, Canto",
+    "tags": ["coh_c1s2"],
+    "categories": ["DEX", "DeFi", "Hackathon Projects"],
+    "logo": "leetswap.jpg",
+    "website": "https://leetswap.finance",
+    "socials": {
+      "twitter": "https://twitter.com/LeetSwap",
+      "discord": "https://discord.gg/me5UbZNxPB",
+      "telegram": "https://t.me/LeetSwap"
+    }
+  },
+  "thoth": {
+    "id": "thoth",
+    "name": "Thoth",
+    "description": "Legally-binding agreements are a need in the DAO to DAO (D2D) ecosystem.",
+    "categories": ["DeFi", "Hackathon Projects"],
+    "logo": "thoth.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/0xTh0th"
+    }
+  },
+  "y2r_finance": {
+    "id": "y2r_finance",
+    "name": "Y2R Finance",
+    "description": "Auto harvest protocol",
+    "categories": ["DeFi", "Hackathon Projects"],
+    "logo": "y2r.jpg",
+    "website": null,
+    "socials": {
+      "twitter": "https://twitter.com/Y2R_Finance"
+    }
+  }
+}
