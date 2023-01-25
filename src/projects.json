@@ -470,7 +470,7 @@
   "revokecash": {
     "id": "revokecash",
     "name": "Revoke.cash",
-    "description": "Asset Management",
+    "description": "Manage your token allowances and protect yourself from scams",
     "categories": ["Asset Management", "Security"],
     "logo": "revokecash.jpg",
     "website": "https://revoke.cash",
@@ -490,6 +490,18 @@
     "socials": {
       "discord": "https://discord.gg/FQB4ZWGGcz",
       "twitter": "https://twitter.com/Shnoises"
+    }
+  },
+  "nexusoracles": {
+    "id": "nexusoracles",
+    "name": "Nexus Oracles",
+    "description": "Decentralized oracle network providing Canto with Price Feeds and Random Numbers",
+    "categories": ["Oracles"],
+    "logo": "nexusoracles.jpg",
+    "website": "https://nexusoracles.com",
+    "socials": {
+      "discord": "https://discord.gg/RYSzYGMMqT",
+      "twitter": "https://twitter.com/NexusOracles"
     }
   }
 }
