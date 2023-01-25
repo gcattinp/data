@@ -454,5 +454,30 @@
     "socials": {
       "twitter": "https://twitter.com/SlingshotCrypto"
     }
+  },
+  "revokecash": {
+    "id": "revokecash",
+    "name": "Revoke.cash",
+    "description": "Asset Management",
+    "categories": ["Asset Management", "Security"],
+    "logo": "revokecash.jpg",
+    "website": "https://revoke.cash",
+    "socials": {
+      "github": "https://github.com/RevokeCash/revoke.cash",
+      "twitter": "https://twitter.com/RevokeCash",
+      "discord": "https://discord.gg/revoke-cash"
+    }
+  },
+  "shnoises": {
+    "id": "shnoises",
+    "name": "Shnoises",
+    "description": "2,888 sǝsᴉonɥS living inside the $CANTO matrix",
+    "categories": ["NFT"],
+    "logo": "shnoises.jpg",
+    "website": "https://www.shnoises.com",
+    "socials": {
+      "discord": "https://discord.gg/FQB4ZWGGcz",
+      "twitter": "https://twitter.com/Shnoises"
+    }
   }
 }
