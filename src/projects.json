@@ -197,6 +197,18 @@
       "twitter": "https://twitter.com/CantoCrabs"
     }
   },
+  "deadends" : {
+    "id": "deadends",
+    "name": "DeadEnds",
+    "description": "Interactive NFT art",
+    "categories": ["NFT"],
+    "logo": "deadends.jpg",
+    "website": "https://deadends.art",
+    "socials": {
+      "twitter": "https://twitter.com/_deadends_",
+      "telegram": "https://t.me/DeadEndsCanto"
+    }
+  },
   "dnsforcanto": {
     "id": "dnsforcanto",
     "name": "Canto Name Service",
