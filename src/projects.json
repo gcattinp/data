@@ -197,7 +197,7 @@
       "twitter": "https://twitter.com/CantoCrabs"
     }
   },
-  "DeadEnds" : {
+  "deadends" : {
     "id": "deadends",
     "name": "DeadEnds",
     "description": "Interactive NFT art",
