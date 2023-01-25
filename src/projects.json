@@ -243,17 +243,6 @@
       "twitter": "https://twitter.com/forteswap"
     }
   },
-  "happyrabbitcoin": {
-    "id": "happyrabbitcoin",
-    "name": "Happy Rabbit",
-    "description": "",
-    "categories": ["Meme coin"],
-    "logo": "happyrabbit.jpg",
-    "website": "https://rabbit-front.vercel.app",
-    "socials": {
-      "twitter": "https://twitter.com/HappyRabbitCoin"
-    }
-  },
   "itsbambooapp": {
     "id": "itsbambooapp",
     "name": "Bamboo",
