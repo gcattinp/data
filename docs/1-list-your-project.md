@@ -8,15 +8,15 @@ Modify `src/projects.json`, and add your project. Make sure it adhere to the fol
 
 ```typescript
 interface Project {
-    id: string
-    name: string
-    description: string
-    category: string
-    logo?: string|null
-    website?: string|null
+    id: "kali",
+    name: "Canto Collectives by Kali",
+    description: "Legally incorporated non-profit DAOs",
+    category: ["Governance", "Infrastructure", "Legal"],
+    logo?: "Kali.jpg",
+    website?: "https://canto.kali.gg/",
     socials?: {
-        twitter?: string
-        discord?: string
+        twitter?: "https://twitter.com/kali__gg",
+        discord?: "discord.gg/kpMs4gzSyV"
     }
     duneQueryEmbeds?: string[]
 }
